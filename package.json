@@ -2,8 +2,8 @@
   "name": "dna2json-parser",
   "description": "Formats your DNA file as JSON",
   "version": "1.0.7",
-  "homepage": "https://github.com/GavinRay97/dna2json",
-  "repository": "git://github.com/GavinRay97/dna2json.git",
+  "homepage": "https://github.com/GavinRay97/dna2json-parser",
+  "repository": "git://github.com/GavinRay97/dna2json-parser.git",
   "author": "Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
   "main": "./index.js",
   "tags": [
