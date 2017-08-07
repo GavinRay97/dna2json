@@ -1,9 +1,9 @@
 {
-  "name": "dna2json",
+  "name": "dna2json-parser",
   "description": "Formats your DNA file as JSON",
   "version": "1.0.7",
-  "homepage": "http://github.com/genomejs/dna2json",
-  "repository": "git://github.com/genomejs/dna2json.git",
+  "homepage": "https://github.com/GavinRay97/dna2json",
+  "repository": "git://github.com/GavinRay97/dna2json.git",
   "author": "Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
   "main": "./index.js",
   "tags": [
@@ -19,12 +19,11 @@
     "genomejs"
   ],
   "bin": {
-    "dna2json": "./bin/dna2json.js"
+    "dna2json": "./lib/parse.js"
   },
   "dependencies": {
     "first-match": "0.0.1",
-    "lodash.reduce": "^3.0.0",
-    "optimist": "^0.6.1"
+    "lodash.reduce": "^3.1.2"
   },
   "engines": {
     "node": ">= 0.4.0"
